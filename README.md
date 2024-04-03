@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss,nodejs,postgres&theme=dark)](https://skillicons.dev)
 
 <!--
 **ivishalgautam/ivishalgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
