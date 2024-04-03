@@ -1,5 +1,5 @@
 ### My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=javascript,reactjs,nextjs,tailwindcss,sequelize,nodejs,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs,tailwindcss,sequelize,nodejs,postgres&theme=light)](https://skillicons.dev)
 
 <!--
 **ivishalgautam/ivishalgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
