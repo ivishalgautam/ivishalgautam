@@ -53,10 +53,10 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
   <a href="https://github.com/ivishalgautam" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ivishalgautam" target="_blank">
+  <a href="https://www.linkedin.com/in/vishal-gautam-895917214" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" />
   </a>
-  <a href="mailto:vishalgautam.dev@gmail.com">
+  <a href="mailto:ivishalgautamm@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" />
   </a>
 </p>
