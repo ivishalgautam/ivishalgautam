@@ -1,8 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/dev-working.gif?raw=true" width="100%" alt="developer at work animation" />
-</p>
-
 # 👋 Hi, I'm Vishal Gautam
 
 🚀 **Full Stack Developer** | 💡 Passionate about building scalable web apps  
@@ -23,13 +18,8 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwindcss,sequelize,nodejs,postgres,mongodb,nginx,linux,docker,git&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/tools-animated.gif?raw=true" width="70%" alt="tools animation" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs,tailwindcss,sequelize,nodejs,postgres,mongodb,nginx,linux,docker,git&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -43,17 +33,10 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 📂 Featured Projects
-
-| Project | Description |
-|----------|--------------|
-| 🔹 **BharatShakti Tenders** | Tender management platform with full CRUD, filters, and automation |
-| 🔹 **GeoJSON Pincode Mapper** | Smart location-based pincode & vendor mapping system |
-| 🔹 **Sequelize Dynamic Models** | Reusable ORM design for scalable applications |
-| 🔹 **AI-powered Search** | Integrating pgvector + OpenAI for semantic query matching |
-
-<p align="center">
-  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/projects.gif?raw=true" width="80%" alt="project doodles animation" />
-</p>
+- 🔹 **BharatShakti Tenders** — Tender management platform with full CRUD, filters, and automation  
+- 🔹 **GeoJSON Pincode Mapper** — Smart location-based pincode & vendor mapping system  
+- 🔹 **Sequelize Dynamic Models** — Reusable ORM design for scalable applications  
+- 🔹 **AI-powered Search** — Integrating pgvector + OpenAI for semantic query matching  
 
 ---
 
@@ -66,15 +49,15 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://github.com/ivishalgautam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/vishal-gautam-895917214" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" />
   </a>
   <a href="mailto:ivishalgautamm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" />
   </a>
 </p>
 
@@ -85,15 +68,4 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 
 ---
 
-### 🐍 GitHub Activity
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ⭐ **Feel free to check out my repositories and drop a star if you like something!**
-
-<p align="center">
-  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/footer-wave.gif?raw=true" width="100%" alt="footer wave animation" />
-</p>
