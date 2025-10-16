@@ -5,6 +5,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
 ### 🧠 About Me
 I'm a developer who enjoys crafting clean, efficient, and scalable solutions — from backend APIs to modern frontend interfaces.  
 I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** with the power of **React**, **Next.js**, and **Tailwind CSS** to build full-stack applications.
@@ -19,7 +23,9 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 
 ### 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs,tailwindcss,sequelize,nodejs,postgres,mongodb,nginx,linux,docker,git&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwindcss,sequelize,nodejs,postgres,mongodb,nginx,linux,docker,git&theme=dark" />
+</p>
 
 ---
 
@@ -33,10 +39,18 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 📂 Featured Projects
-- 🔹 **BharatShakti Tenders** — Tender management platform with full CRUD, filters, and automation  
-- 🔹 **GeoJSON Pincode Mapper** — Smart location-based pincode & vendor mapping system  
-- 🔹 **Sequelize Dynamic Models** — Reusable ORM design for scalable applications  
-- 🔹 **AI-powered Search** — Integrating pgvector + OpenAI for semantic query matching  
+💡 *Hover to see a doodle animation!*
+
+| Project | Description |
+|----------|--------------|
+| 🔹 **BharatShakti Tenders** | Tender management platform with full CRUD, filters, and automation |
+| 🔹 **GeoJSON Pincode Mapper** | Smart location-based pincode & vendor mapping system |
+| 🔹 **Sequelize Dynamic Models** | Reusable ORM design for scalable applications |
+| 🔹 **AI-powered Search** | Integrating pgvector + OpenAI for semantic query matching |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
 
 ---
 
@@ -49,15 +63,15 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://github.com/ivishalgautam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" />
   </a>
   <a href="https://www.linkedin.com/in/vishal-gautam-895917214" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
   </a>
   <a href="mailto:ivishalgautamm@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
   </a>
 </p>
 
@@ -68,4 +82,14 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 
 ---
 
-⭐ **Feel free to check out my repositories and drop a star if you like something!**
+<div align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+⭐ **Feel free to check out my repositories and drop a star if you like something!**  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
+</div>
