@@ -1,13 +1,14 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/dev-working.gif?raw=true" width="100%" alt="developer at work animation" />
+</p>
+
 # 👋 Hi, I'm Vishal Gautam
 
 🚀 **Full Stack Developer** | 💡 Passionate about building scalable web apps  
 📍 Based in India | 💬 Open to collaborations and exciting projects
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
 
 ### 🧠 About Me
 I'm a developer who enjoys crafting clean, efficient, and scalable solutions — from backend APIs to modern frontend interfaces.  
@@ -22,9 +23,12 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 🧰 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwindcss,sequelize,nodejs,postgres,mongodb,nginx,linux,docker,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/tools-animated.gif?raw=true" width="70%" alt="tools animation" />
 </p>
 
 ---
@@ -39,7 +43,6 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 ---
 
 ### 📂 Featured Projects
-💡 *Hover to see a doodle animation!*
 
 | Project | Description |
 |----------|--------------|
@@ -49,7 +52,7 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 | 🔹 **AI-powered Search** | Integrating pgvector + OpenAI for semantic query matching |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/projects.gif?raw=true" width="80%" alt="project doodles animation" />
 </p>
 
 ---
@@ -82,14 +85,15 @@ I love combining **Node.js**, **Fastify**, **Sequelize**, and **PostgreSQL** wit
 
 ---
 
-<div align="center">
+### 🐍 GitHub Activity
+<p align="center">
   <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+</p>
 
 ---
 
-⭐ **Feel free to check out my repositories and drop a star if you like something!**  
+⭐ **Feel free to check out my repositories and drop a star if you like something!**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github.com/ivishalgautam/ivishalgautam/blob/main/assets/footer-wave.gif?raw=true" width="100%" alt="footer wave animation" />
+</p>
